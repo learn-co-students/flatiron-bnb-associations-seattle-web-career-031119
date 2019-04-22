@@ -1,5 +1,4 @@
 require 'rails_helper'
-
 describe User do
   let(:katie) { User.create(name: "Katie") }
 
